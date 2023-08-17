@@ -1,0 +1,48 @@
+.colours {
+    color: hsl(193, 38%, 86%);
+    color: hsl(150, 100%, 66%);
+    color: hsl(217, 19%, 38%);
+    color: hsl(217, 19%, 24%);
+    color: hsl(218, 23%, 16%);
+}
+
+body {
+    background-color: hsl(218, 23%, 16%);
+    color: hsl(193, 38%, 86%);
+}
+
+.app {
+    background-color: hsl(217, 19%, 24%);
+}
+
+.advice {
+    color: hsl(150, 100%, 66%);
+    text-decoration: dotted;
+}
+
+.dice {
+    position: relative;
+    top: -5%;
+    height: 4em;
+    width: 4em;
+    border-radius: 50%;
+    background-color: hsl(150, 100%, 66%);
+}
+
+.dice:hover {
+    box-shadow: 0px 0px 15px 5px hsl(150, 100%, 66%);
+}
+
+@media screen and (min-width: 768px) {
+   .dice {
+    position: relative;
+    top: -3%;
+   } 
+}
+
+@media screen and (min-width: 992px) {
+    .dice {
+        position: relative;
+        top: -5%;
+    }
+}
