@@ -27,14 +27,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/akinwumi-sa/advice-generator-app)
+- Live Site URL: [live site URL](https://advice-generator-rv63.onrender.com/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HThttps://advice-generator-rv63.onrender.com/ML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
